@@ -16,7 +16,7 @@ Place the image in your project folder or have the URL ready.
 
 🛠️ Step-by-Step Implementation
 Step 1: Add Your Lyrics
-Open index.html. Replace the comment `` with your chosen lyrics.
+Open index.html. GO TO THE <!----ENTER YOU LYRICS HERE----> delete this and change the lyrics you want.
 
 Tip: For the best effect, use a lot of text. Copy and paste the chorus multiple times if needed to fill the screen!
 
